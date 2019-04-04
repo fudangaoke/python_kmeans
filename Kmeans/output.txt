@@ -1,0 +1,689 @@
+Year = 2013, K = 2
+Iteration count =100
+Group 0 with 80 element
+Ticker list : ['AMT', 'AMZN', 'BAM', 'CCI', 'CMCSA', 'COST', 'DIS', 'HD', 'LOW', 'LVS', 'MAR', 'MCD', 'NFLX', 'PLD', 'RELX', 'SBUX', 'SPG', 'TGT', 'TJX', 'WMT', 'AXP', 'BAC', 'BK', 'BLK', 'C', 'CME', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'SPGI', 'TD', 'USB', 'WFC', 'ABBV', 'ABT', 'AMGN', 'ANTM', 'AZN', 'BDX', 'BMY', 'CVS', 'GILD', 'GSK', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVO', 'NVS', 'PFE', 'SYK', 'UNH', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CRM', 'CSCO', 'FB', 'GOOG', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Group 1 with 0 element
+Ticker list : []
+
+Year = 2013, K = 3
+Iteration count =7
+Group 0 with 19 element
+Ticker list : ['BAM', 'DIS', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 1 with 13 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'SBUX', 'TGT', 'TJX', 'WMT', 'ANTM', 'CVS', 'UNH']
+
+Group 2 with 48 element
+Ticker list : ['AMT', 'CCI', 'CMCSA', 'LVS', 'MCD', 'PLD', 'RELX', 'SPG', 'BLK', 'CME', 'SPGI', 'ABBV', 'ABT', 'AMGN', 'AZN', 'BDX', 'BMY', 'GILD', 'GSK', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVO', 'NVS', 'PFE', 'SYK', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CRM', 'CSCO', 'FB', 'GOOG', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Year = 2013, K = 4
+Iteration count =4
+Group 0 with 30 element
+Ticker list : ['CCI', 'CMCSA', 'LVS', 'MCD', 'PLD', 'RELX', 'BLK', 'ABT', 'AZN', 'BDX', 'BMY', 'GILD', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVS', 'SYK', 'ADBE', 'ADP', 'CRM', 'CSCO', 'IBM', 'INTC', 'ITW', 'NVDA', 'SAP', 'TXN', 'VMW']
+
+Group 1 with 7 element
+Ticker list : ['AMT', 'SPG', 'CME', 'ABBV', 'AMGN', 'GSK', 'PFE']
+
+Group 2 with 32 element
+Ticker list : ['AMZN', 'BAM', 'COST', 'DIS', 'HD', 'LOW', 'MAR', 'NFLX', 'SBUX', 'TGT', 'TJX', 'WMT', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC', 'ANTM', 'CVS', 'UNH']
+
+Group 3 with 11 element
+Ticker list : ['SPGI', 'NVO', 'AAPL', 'AVGO', 'FB', 'GOOG', 'INTU', 'MSFT', 'ORCL', 'QCOM', 'TSM']
+
+Year = 2013, K = 5
+Iteration count =6
+Group 0 with 13 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'SBUX', 'TGT', 'TJX', 'WMT', 'ANTM', 'CVS', 'UNH']
+
+Group 1 with 2 element
+Ticker list : ['SPGI', 'NVO']
+
+Group 2 with 19 element
+Ticker list : ['BAM', 'DIS', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 3 with 39 element
+Ticker list : ['CCI', 'CMCSA', 'LVS', 'MCD', 'PLD', 'BLK', 'CME', 'ABT', 'AZN', 'BDX', 'BMY', 'GILD', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVS', 'PFE', 'SYK', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CRM', 'CSCO', 'FB', 'GOOG', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Group 4 with 7 element
+Ticker list : ['AMT', 'RELX', 'SPG', 'ABBV', 'AMGN', 'GSK', 'IBM']
+
+Year = 2013, K = 6
+Iteration count =9
+Group 0 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 1 with 13 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'SBUX', 'TGT', 'TJX', 'WMT', 'ANTM', 'CVS', 'UNH']
+
+Group 2 with 13 element
+Ticker list : ['CCI', 'CMCSA', 'PLD', 'ABT', 'AZN', 'BMY', 'MRK', 'NVS', 'SYK', 'ADBE', 'CRM', 'NVDA', 'VMW']
+
+Group 3 with 22 element
+Ticker list : ['AMT', 'RELX', 'SPG', 'BLK', 'CME', 'SPGI', 'ABBV', 'AMGN', 'GILD', 'GSK', 'JNJ', 'LLY', 'MDT', 'PFE', 'CSCO', 'FB', 'GOOG', 'INTU', 'MSFT', 'ORCL', 'SAP', 'TSM']
+
+Group 4 with 11 element
+Ticker list : ['BAM', 'DIS', 'LVS', 'MCD', 'BDX', 'MMM', 'ADP', 'IBM', 'INTC', 'ITW', 'TXN']
+
+Group 5 with 4 element
+Ticker list : ['NVO', 'AAPL', 'AVGO', 'QCOM']
+
+Year = 2013, K = 7
+Iteration count =8
+Group 0 with 13 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'SBUX', 'TGT', 'TJX', 'WMT', 'ANTM', 'CVS', 'UNH']
+
+Group 1 with 18 element
+Ticker list : ['AMT', 'RELX', 'SPG', 'CME', 'SPGI', 'ABBV', 'AMGN', 'GILD', 'GSK', 'JNJ', 'LLY', 'PFE', 'IBM', 'INTU', 'MSFT', 'ORCL', 'SAP', 'TSM']
+
+Group 2 with 6 element
+Ticker list : ['BLK', 'MDT', 'CSCO', 'FB', 'GOOG', 'NVDA']
+
+Group 3 with 4 element
+Ticker list : ['NVO', 'AAPL', 'AVGO', 'QCOM']
+
+Group 4 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 5 with 10 element
+Ticker list : ['BAM', 'DIS', 'LVS', 'MCD', 'BDX', 'MMM', 'ADP', 'INTC', 'ITW', 'TXN']
+
+Group 6 with 12 element
+Ticker list : ['CCI', 'CMCSA', 'PLD', 'ABT', 'AZN', 'BMY', 'MRK', 'NVS', 'SYK', 'ADBE', 'CRM', 'VMW']
+
+Year = 2013, K = 8
+Iteration count =15
+Group 0 with 16 element
+Ticker list : ['BLK', 'CME', 'AMGN', 'GILD', 'JNJ', 'LLY', 'MDT', 'PFE', 'CSCO', 'FB', 'GOOG', 'INTU', 'MSFT', 'ORCL', 'SAP', 'VMW']
+
+Group 1 with 5 element
+Ticker list : ['AMT', 'SPG', 'ABBV', 'GSK', 'IBM']
+
+Group 2 with 9 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'TGT', 'TJX', 'WMT', 'CVS']
+
+Group 3 with 21 element
+Ticker list : ['BAM', 'CCI', 'CMCSA', 'DIS', 'LVS', 'MCD', 'SBUX', 'ABT', 'AZN', 'BDX', 'BMY', 'MMM', 'MRK', 'NVS', 'SYK', 'ADBE', 'CRM', 'INTC', 'ITW', 'NVDA', 'TXN']
+
+Group 4 with 15 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'MS', 'PNC', 'RY', 'TD', 'USB', 'WFC']
+
+Group 5 with 3 element
+Ticker list : ['LFC', 'SAN', 'ANTM']
+
+Group 6 with 5 element
+Ticker list : ['NFLX', 'PLD', 'RELX', 'UNH', 'ADP']
+
+Group 7 with 6 element
+Ticker list : ['SPGI', 'NVO', 'AAPL', 'AVGO', 'QCOM', 'TSM']
+
+********************************
+Year = 2014, K = 2
+Iteration count =4
+Group 0 with 31 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'TGT', 'TJX', 'WMT', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'SPGI', 'TD', 'USB', 'WFC', 'ANTM', 'CVS', 'UNH', 'CRM']
+
+Group 1 with 49 element
+Ticker list : ['AMT', 'BAM', 'CCI', 'CMCSA', 'DIS', 'LVS', 'MCD', 'PLD', 'RELX', 'SBUX', 'SPG', 'BLK', 'CME', 'ABBV', 'ABT', 'AMGN', 'AZN', 'BDX', 'BMY', 'GILD', 'GSK', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVO', 'NVS', 'PFE', 'SYK', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CSCO', 'FB', 'GOOG', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Year = 2014, K = 3
+Iteration count =10
+Group 0 with 12 element
+Ticker list : ['BLK', 'AMGN', 'MDT', 'PFE', 'ADBE', 'CSCO', 'FB', 'GOOG', 'NVDA', 'ORCL', 'QCOM', 'VMW']
+
+Group 1 with 39 element
+Ticker list : ['AMT', 'BAM', 'CCI', 'CMCSA', 'DIS', 'HD', 'LVS', 'MCD', 'PLD', 'RELX', 'SBUX', 'SPG', 'TJX', 'CME', 'ABBV', 'ABT', 'AZN', 'BDX', 'BMY', 'GILD', 'GSK', 'JNJ', 'LLY', 'MMM', 'MRK', 'NVO', 'NVS', 'SYK', 'AAPL', 'ADP', 'AVGO', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'SAP', 'TSM', 'TXN']
+
+Group 2 with 29 element
+Ticker list : ['AMZN', 'COST', 'LOW', 'MAR', 'NFLX', 'TGT', 'WMT', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'SPGI', 'TD', 'USB', 'WFC', 'ANTM', 'CVS', 'UNH', 'CRM']
+
+Year = 2014, K = 4
+Iteration count =5
+Group 0 with 47 element
+Ticker list : ['AMT', 'BAM', 'CCI', 'CMCSA', 'DIS', 'LVS', 'MCD', 'PLD', 'RELX', 'SPG', 'BLK', 'CME', 'ABBV', 'ABT', 'AMGN', 'BDX', 'BMY', 'GILD', 'GSK', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVO', 'NVS', 'PFE', 'SYK', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CSCO', 'FB', 'GOOG', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Group 1 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 2 with 13 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'TGT', 'WMT', 'SPGI', 'ANTM', 'CVS', 'UNH', 'CRM']
+
+Group 3 with 3 element
+Ticker list : ['SBUX', 'TJX', 'AZN']
+
+Year = 2014, K = 5
+Iteration count =6
+Group 0 with 12 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'TGT', 'TJX', 'WMT', 'ANTM', 'CVS', 'UNH']
+
+Group 1 with 22 element
+Ticker list : ['AMT', 'BAM', 'CCI', 'CMCSA', 'PLD', 'RELX', 'SBUX', 'SPG', 'SPGI', 'ABBV', 'ABT', 'AZN', 'BMY', 'GSK', 'LLY', 'NVS', 'SYK', 'ADBE', 'ADP', 'AVGO', 'CRM', 'IBM']
+
+Group 2 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 3 with 2 element
+Ticker list : ['GILD', 'NVO']
+
+Group 4 with 27 element
+Ticker list : ['DIS', 'LVS', 'MCD', 'BLK', 'CME', 'AMGN', 'BDX', 'JNJ', 'MDT', 'MMM', 'MRK', 'PFE', 'AAPL', 'CSCO', 'FB', 'GOOG', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Year = 2014, K = 6
+Iteration count =11
+Group 0 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 1 with 6 element
+Ticker list : ['AMT', 'RELX', 'SPG', 'ABBV', 'GSK', 'IBM']
+
+Group 2 with 14 element
+Ticker list : ['CCI', 'CMCSA', 'PLD', 'SPGI', 'ABT', 'AZN', 'BMY', 'LLY', 'NVS', 'PFE', 'SYK', 'ADBE', 'AVGO', 'CRM']
+
+Group 3 with 15 element
+Ticker list : ['BLK', 'CME', 'AMGN', 'GILD', 'MDT', 'NVO', 'CSCO', 'FB', 'GOOG', 'INTU', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'VMW']
+
+Group 4 with 16 element
+Ticker list : ['BAM', 'DIS', 'LVS', 'MCD', 'SBUX', 'BDX', 'JNJ', 'MMM', 'MRK', 'AAPL', 'ADP', 'INTC', 'ITW', 'SAP', 'TSM', 'TXN']
+
+Group 5 with 12 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'TGT', 'TJX', 'WMT', 'ANTM', 'CVS', 'UNH']
+
+Year = 2014, K = 7
+Iteration count =8
+Group 0 with 21 element
+Ticker list : ['AMT', 'BAM', 'CCI', 'CMCSA', 'DIS', 'SPG', 'CME', 'ABT', 'BDX', 'BMY', 'GSK', 'LLY', 'MDT', 'NVS', 'PFE', 'SYK', 'ADBE', 'AVGO', 'CRM', 'CSCO', 'SAP']
+
+Group 1 with 5 element
+Ticker list : ['BLK', 'AMGN', 'FB', 'GOOG', 'NVDA']
+
+Group 2 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 3 with 12 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'TGT', 'TJX', 'WMT', 'ANTM', 'CVS', 'UNH']
+
+Group 4 with 2 element
+Ticker list : ['SPGI', 'ABBV']
+
+Group 5 with 3 element
+Ticker list : ['PLD', 'SBUX', 'AZN']
+
+Group 6 with 20 element
+Ticker list : ['LVS', 'MCD', 'RELX', 'GILD', 'JNJ', 'MMM', 'MRK', 'NVO', 'AAPL', 'ADP', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'ORCL', 'QCOM', 'TSM', 'TXN', 'VMW']
+
+Year = 2014, K = 8
+Iteration count =10
+Group 0 with 10 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'SBUX', 'TGT', 'TJX', 'WMT', 'CVS']
+
+Group 1 with 11 element
+Ticker list : ['BLK', 'AMGN', 'GILD', 'MDT', 'NVO', 'FB', 'GOOG', 'NVDA', 'ORCL', 'QCOM', 'VMW']
+
+Group 2 with 13 element
+Ticker list : ['CCI', 'CMCSA', 'PLD', 'SPGI', 'ABT', 'AZN', 'BMY', 'LLY', 'PFE', 'SYK', 'ADBE', 'AVGO', 'CRM']
+
+Group 3 with 17 element
+Ticker list : ['DIS', 'LVS', 'MCD', 'BDX', 'JNJ', 'MMM', 'MRK', 'NVS', 'AAPL', 'CSCO', 'INTC', 'INTU', 'ITW', 'MSFT', 'SAP', 'TSM', 'TXN']
+
+Group 4 with 4 element
+Ticker list : ['AMT', 'BAM', 'SPG', 'CME']
+
+Group 5 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 6 with 5 element
+Ticker list : ['NFLX', 'RELX', 'ANTM', 'UNH', 'ADP']
+
+Group 7 with 3 element
+Ticker list : ['ABBV', 'GSK', 'IBM']
+
+********************************
+Year = 2015, K = 2
+Iteration count =9
+Group 0 with 48 element
+Ticker list : ['AMT', 'CCI', 'CMCSA', 'DIS', 'LVS', 'MCD', 'PLD', 'RELX', 'SPG', 'BLK', 'CME', 'SPGI', 'ABBV', 'ABT', 'AMGN', 'AZN', 'BDX', 'BMY', 'GILD', 'GSK', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVO', 'NVS', 'PFE', 'SYK', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CSCO', 'FB', 'GOOG', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Group 1 with 32 element
+Ticker list : ['AMZN', 'BAM', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'SBUX', 'TGT', 'TJX', 'WMT', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC', 'ANTM', 'CVS', 'UNH', 'CRM']
+
+Year = 2015, K = 3
+Iteration count =8
+Group 0 with 45 element
+Ticker list : ['AMT', 'BAM', 'CCI', 'CMCSA', 'DIS', 'LVS', 'MCD', 'PLD', 'RELX', 'SPG', 'BLK', 'CME', 'ABT', 'AMGN', 'AZN', 'BDX', 'BMY', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVS', 'PFE', 'SYK', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CRM', 'CSCO', 'FB', 'GOOG', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Group 1 with 30 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'SBUX', 'TGT', 'TJX', 'WMT', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC', 'ANTM', 'CVS', 'UNH']
+
+Group 2 with 5 element
+Ticker list : ['SPGI', 'ABBV', 'GILD', 'GSK', 'NVO']
+
+Year = 2015, K = 4
+Iteration count =5
+Group 0 with 45 element
+Ticker list : ['AMT', 'BAM', 'CCI', 'CMCSA', 'DIS', 'LVS', 'MCD', 'PLD', 'RELX', 'SPG', 'BLK', 'CME', 'ABT', 'AMGN', 'AZN', 'BDX', 'BMY', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVS', 'PFE', 'SYK', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CRM', 'CSCO', 'FB', 'GOOG', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Group 1 with 11 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'SBUX', 'TGT', 'TJX', 'WMT', 'CVS', 'UNH']
+
+Group 2 with 5 element
+Ticker list : ['SPGI', 'ABBV', 'GILD', 'GSK', 'NVO']
+
+Group 3 with 19 element
+Ticker list : ['NFLX', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC', 'ANTM']
+
+Year = 2015, K = 5
+Iteration count =100
+Group 0 with 80 element
+Ticker list : ['AMT', 'AMZN', 'BAM', 'CCI', 'CMCSA', 'COST', 'DIS', 'HD', 'LOW', 'LVS', 'MAR', 'MCD', 'NFLX', 'PLD', 'RELX', 'SBUX', 'SPG', 'TGT', 'TJX', 'WMT', 'AXP', 'BAC', 'BK', 'BLK', 'C', 'CME', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'SPGI', 'TD', 'USB', 'WFC', 'ABBV', 'ABT', 'AMGN', 'ANTM', 'AZN', 'BDX', 'BMY', 'CVS', 'GILD', 'GSK', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVO', 'NVS', 'PFE', 'SYK', 'UNH', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CRM', 'CSCO', 'FB', 'GOOG', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'ORCL', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Group 1 with 0 element
+Ticker list : []
+
+Group 2 with 0 element
+Ticker list : []
+
+Group 3 with 0 element
+Ticker list : []
+
+Group 4 with 0 element
+Ticker list : []
+
+Year = 2015, K = 6
+Iteration count =4
+Group 0 with 39 element
+Ticker list : ['AMT', 'BAM', 'CCI', 'CMCSA', 'DIS', 'LVS', 'MCD', 'RELX', 'SBUX', 'ABBV', 'ABT', 'AZN', 'BDX', 'BMY', 'GSK', 'JNJ', 'LLY', 'MDT', 'MMM', 'MRK', 'NVS', 'PFE', 'SYK', 'AAPL', 'ADBE', 'ADP', 'AVGO', 'CSCO', 'IBM', 'INTC', 'INTU', 'ITW', 'MSFT', 'NVDA', 'QCOM', 'SAP', 'TSM', 'TXN', 'VMW']
+
+Group 1 with 7 element
+Ticker list : ['PLD', 'SPG', 'BLK', 'CME', 'AMGN', 'GOOG', 'ORCL']
+
+Group 2 with 1 element
+Ticker list : ['GILD']
+
+Group 3 with 2 element
+Ticker list : ['SPGI', 'NVO']
+
+Group 4 with 2 element
+Ticker list : ['CRM', 'FB']
+
+Group 5 with 29 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'TGT', 'TJX', 'WMT', 'AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC', 'ANTM', 'CVS', 'UNH']
+
+Year = 2015, K = 7
+Iteration count =10
+Group 0 with 7 element
+Ticker list : ['BLK', 'SPGI', 'AMGN', 'GILD', 'NVO', 'FB', 'ORCL']
+
+Group 1 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 2 with 10 element
+Ticker list : ['AMT', 'CCI', 'PLD', 'SPG', 'CME', 'ABBV', 'AZN', 'BMY', 'NVS', 'PFE']
+
+Group 3 with 1 element
+Ticker list : ['CRM']
+
+Group 4 with 13 element
+Ticker list : ['MCD', 'GSK', 'JNJ', 'MMM', 'AAPL', 'AVGO', 'GOOG', 'IBM', 'INTC', 'ITW', 'QCOM', 'TSM', 'TXN']
+
+Group 5 with 19 element
+Ticker list : ['BAM', 'CMCSA', 'DIS', 'LVS', 'RELX', 'ABT', 'BDX', 'LLY', 'MDT', 'MRK', 'SYK', 'ADBE', 'ADP', 'CSCO', 'INTU', 'MSFT', 'NVDA', 'SAP', 'VMW']
+
+Group 6 with 13 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'NFLX', 'SBUX', 'TGT', 'TJX', 'WMT', 'ANTM', 'CVS', 'UNH']
+
+Year = 2015, K = 8
+Iteration count =10
+Group 0 with 21 element
+Ticker list : ['AMT', 'CCI', 'CMCSA', 'PLD', 'RELX', 'SPG', 'CME', 'AZN', 'BMY', 'LLY', 'MDT', 'MRK', 'PFE', 'SYK', 'ADBE', 'CRM', 'CSCO', 'INTU', 'MSFT', 'SAP', 'VMW']
+
+Group 1 with 3 element
+Ticker list : ['NFLX', 'ANTM', 'UNH']
+
+Group 2 with 10 element
+Ticker list : ['AMZN', 'COST', 'HD', 'LOW', 'MAR', 'SBUX', 'TGT', 'TJX', 'WMT', 'CVS']
+
+Group 3 with 3 element
+Ticker list : ['BAM', 'BDX', 'ADP']
+
+Group 4 with 7 element
+Ticker list : ['BLK', 'AMGN', 'GILD', 'NVO', 'FB', 'GOOG', 'ORCL']
+
+Group 5 with 17 element
+Ticker list : ['AXP', 'BAC', 'BK', 'C', 'COF', 'GS', 'HDB', 'ITUB', 'JPM', 'LFC', 'MS', 'PNC', 'RY', 'SAN', 'TD', 'USB', 'WFC']
+
+Group 6 with 17 element
+Ticker list : ['DIS', 'LVS', 'MCD', 'ABT', 'GSK', 'JNJ', 'MMM', 'NVS', 'AAPL', 'AVGO', 'IBM', 'INTC', 'ITW', 'NVDA', 'QCOM', 'TSM', 'TXN']
+
+Group 7 with 2 element
+Ticker list : ['SPGI', 'ABBV']
+
+********************************
+[AMT,SPG]  Similarity = 0.9523809523809523
+[AMZN,COST]  Similarity = 1.0
+[AMZN,HD]  Similarity = 0.9523809523809523
+[AMZN,LOW]  Similarity = 1.0
+[AMZN,MAR]  Similarity = 1.0
+[AMZN,NFLX]  Similarity = 0.8095238095238095
+[AMZN,TGT]  Similarity = 1.0
+[AMZN,TJX]  Similarity = 0.9047619047619048
+[AMZN,WMT]  Similarity = 1.0
+[AMZN,ANTM]  Similarity = 0.8095238095238095
+[AMZN,CVS]  Similarity = 1.0
+[AMZN,UNH]  Similarity = 0.8571428571428571
+[BAM,DIS]  Similarity = 0.8095238095238095
+[CCI,CMCSA]  Similarity = 0.9523809523809523
+[CCI,PLD]  Similarity = 0.8571428571428571
+[CCI,ABT]  Similarity = 0.9047619047619048
+[CCI,AZN]  Similarity = 0.9047619047619048
+[CCI,BMY]  Similarity = 1.0
+[CCI,LLY]  Similarity = 0.8095238095238095
+[CCI,NVS]  Similarity = 0.9047619047619048
+[CCI,SYK]  Similarity = 0.9523809523809523
+[CCI,ADBE]  Similarity = 0.9047619047619048
+[CMCSA,PLD]  Similarity = 0.8095238095238095
+[CMCSA,ABT]  Similarity = 0.9523809523809523
+[CMCSA,AZN]  Similarity = 0.8571428571428571
+[CMCSA,BMY]  Similarity = 0.9523809523809523
+[CMCSA,LLY]  Similarity = 0.8571428571428571
+[CMCSA,MRK]  Similarity = 0.8095238095238095
+[CMCSA,NVS]  Similarity = 0.8571428571428571
+[CMCSA,SYK]  Similarity = 1.0
+[CMCSA,ADBE]  Similarity = 0.9523809523809523
+[COST,HD]  Similarity = 0.9523809523809523
+[COST,LOW]  Similarity = 1.0
+[COST,MAR]  Similarity = 1.0
+[COST,NFLX]  Similarity = 0.8095238095238095
+[COST,TGT]  Similarity = 1.0
+[COST,TJX]  Similarity = 0.9047619047619048
+[COST,WMT]  Similarity = 1.0
+[COST,ANTM]  Similarity = 0.8095238095238095
+[COST,CVS]  Similarity = 1.0
+[COST,UNH]  Similarity = 0.8571428571428571
+[DIS,LVS]  Similarity = 0.8095238095238095
+[DIS,BDX]  Similarity = 0.8095238095238095
+[HD,LOW]  Similarity = 0.9523809523809523
+[HD,MAR]  Similarity = 0.9523809523809523
+[HD,TGT]  Similarity = 0.9523809523809523
+[HD,TJX]  Similarity = 0.9523809523809523
+[HD,WMT]  Similarity = 0.9523809523809523
+[HD,CVS]  Similarity = 0.9523809523809523
+[HD,UNH]  Similarity = 0.8095238095238095
+[LOW,MAR]  Similarity = 1.0
+[LOW,NFLX]  Similarity = 0.8095238095238095
+[LOW,TGT]  Similarity = 1.0
+[LOW,TJX]  Similarity = 0.9047619047619048
+[LOW,WMT]  Similarity = 1.0
+[LOW,ANTM]  Similarity = 0.8095238095238095
+[LOW,CVS]  Similarity = 1.0
+[LOW,UNH]  Similarity = 0.8571428571428571
+[LVS,MCD]  Similarity = 0.9523809523809523
+[LVS,BDX]  Similarity = 0.9047619047619048
+[LVS,JNJ]  Similarity = 0.8095238095238095
+[LVS,MMM]  Similarity = 0.9523809523809523
+[LVS,MRK]  Similarity = 0.8571428571428571
+[LVS,ADP]  Similarity = 0.8095238095238095
+[LVS,INTC]  Similarity = 0.9523809523809523
+[LVS,ITW]  Similarity = 0.9523809523809523
+[LVS,TXN]  Similarity = 0.9523809523809523
+[MAR,NFLX]  Similarity = 0.8095238095238095
+[MAR,TGT]  Similarity = 1.0
+[MAR,TJX]  Similarity = 0.9047619047619048
+[MAR,WMT]  Similarity = 1.0
+[MAR,ANTM]  Similarity = 0.8095238095238095
+[MAR,CVS]  Similarity = 1.0
+[MAR,UNH]  Similarity = 0.8571428571428571
+[MCD,BDX]  Similarity = 0.8571428571428571
+[MCD,JNJ]  Similarity = 0.8571428571428571
+[MCD,MMM]  Similarity = 1.0
+[MCD,MRK]  Similarity = 0.8095238095238095
+[MCD,AAPL]  Similarity = 0.8095238095238095
+[MCD,INTC]  Similarity = 1.0
+[MCD,ITW]  Similarity = 1.0
+[MCD,TSM]  Similarity = 0.8095238095238095
+[MCD,TXN]  Similarity = 1.0
+[NFLX,TGT]  Similarity = 0.8095238095238095
+[NFLX,WMT]  Similarity = 0.8095238095238095
+[NFLX,ANTM]  Similarity = 0.9523809523809523
+[NFLX,CVS]  Similarity = 0.8095238095238095
+[NFLX,UNH]  Similarity = 0.9523809523809523
+[PLD,AZN]  Similarity = 0.8571428571428571
+[PLD,BMY]  Similarity = 0.8571428571428571
+[PLD,SYK]  Similarity = 0.8095238095238095
+[SPG,CME]  Similarity = 0.8095238095238095
+[TGT,TJX]  Similarity = 0.9047619047619048
+[TGT,WMT]  Similarity = 1.0
+[TGT,ANTM]  Similarity = 0.8095238095238095
+[TGT,CVS]  Similarity = 1.0
+[TGT,UNH]  Similarity = 0.8571428571428571
+[TJX,WMT]  Similarity = 0.9047619047619048
+[TJX,CVS]  Similarity = 0.9047619047619048
+[WMT,ANTM]  Similarity = 0.8095238095238095
+[WMT,CVS]  Similarity = 1.0
+[WMT,UNH]  Similarity = 0.8571428571428571
+[AXP,BAC]  Similarity = 1.0
+[AXP,BK]  Similarity = 1.0
+[AXP,C]  Similarity = 1.0
+[AXP,COF]  Similarity = 1.0
+[AXP,GS]  Similarity = 1.0
+[AXP,HDB]  Similarity = 1.0
+[AXP,ITUB]  Similarity = 1.0
+[AXP,JPM]  Similarity = 1.0
+[AXP,LFC]  Similarity = 0.9523809523809523
+[AXP,MS]  Similarity = 1.0
+[AXP,PNC]  Similarity = 1.0
+[AXP,RY]  Similarity = 1.0
+[AXP,SAN]  Similarity = 0.9523809523809523
+[AXP,TD]  Similarity = 1.0
+[AXP,USB]  Similarity = 1.0
+[AXP,WFC]  Similarity = 1.0
+[BAC,BK]  Similarity = 1.0
+[BAC,C]  Similarity = 1.0
+[BAC,COF]  Similarity = 1.0
+[BAC,GS]  Similarity = 1.0
+[BAC,HDB]  Similarity = 1.0
+[BAC,ITUB]  Similarity = 1.0
+[BAC,JPM]  Similarity = 1.0
+[BAC,LFC]  Similarity = 0.9523809523809523
+[BAC,MS]  Similarity = 1.0
+[BAC,PNC]  Similarity = 1.0
+[BAC,RY]  Similarity = 1.0
+[BAC,SAN]  Similarity = 0.9523809523809523
+[BAC,TD]  Similarity = 1.0
+[BAC,USB]  Similarity = 1.0
+[BAC,WFC]  Similarity = 1.0
+[BK,C]  Similarity = 1.0
+[BK,COF]  Similarity = 1.0
+[BK,GS]  Similarity = 1.0
+[BK,HDB]  Similarity = 1.0
+[BK,ITUB]  Similarity = 1.0
+[BK,JPM]  Similarity = 1.0
+[BK,LFC]  Similarity = 0.9523809523809523
+[BK,MS]  Similarity = 1.0
+[BK,PNC]  Similarity = 1.0
+[BK,RY]  Similarity = 1.0
+[BK,SAN]  Similarity = 0.9523809523809523
+[BK,TD]  Similarity = 1.0
+[BK,USB]  Similarity = 1.0
+[BK,WFC]  Similarity = 1.0
+[BLK,AMGN]  Similarity = 0.8571428571428571
+[BLK,MDT]  Similarity = 0.8095238095238095
+[BLK,FB]  Similarity = 0.9047619047619048
+[BLK,GOOG]  Similarity = 0.9047619047619048
+[BLK,ORCL]  Similarity = 0.8571428571428571
+[C,COF]  Similarity = 1.0
+[C,GS]  Similarity = 1.0
+[C,HDB]  Similarity = 1.0
+[C,ITUB]  Similarity = 1.0
+[C,JPM]  Similarity = 1.0
+[C,LFC]  Similarity = 0.9523809523809523
+[C,MS]  Similarity = 1.0
+[C,PNC]  Similarity = 1.0
+[C,RY]  Similarity = 1.0
+[C,SAN]  Similarity = 0.9523809523809523
+[C,TD]  Similarity = 1.0
+[C,USB]  Similarity = 1.0
+[C,WFC]  Similarity = 1.0
+[CME,PFE]  Similarity = 0.8095238095238095
+[COF,GS]  Similarity = 1.0
+[COF,HDB]  Similarity = 1.0
+[COF,ITUB]  Similarity = 1.0
+[COF,JPM]  Similarity = 1.0
+[COF,LFC]  Similarity = 0.9523809523809523
+[COF,MS]  Similarity = 1.0
+[COF,PNC]  Similarity = 1.0
+[COF,RY]  Similarity = 1.0
+[COF,SAN]  Similarity = 0.9523809523809523
+[COF,TD]  Similarity = 1.0
+[COF,USB]  Similarity = 1.0
+[COF,WFC]  Similarity = 1.0
+[GS,HDB]  Similarity = 1.0
+[GS,ITUB]  Similarity = 1.0
+[GS,JPM]  Similarity = 1.0
+[GS,LFC]  Similarity = 0.9523809523809523
+[GS,MS]  Similarity = 1.0
+[GS,PNC]  Similarity = 1.0
+[GS,RY]  Similarity = 1.0
+[GS,SAN]  Similarity = 0.9523809523809523
+[GS,TD]  Similarity = 1.0
+[GS,USB]  Similarity = 1.0
+[GS,WFC]  Similarity = 1.0
+[HDB,ITUB]  Similarity = 1.0
+[HDB,JPM]  Similarity = 1.0
+[HDB,LFC]  Similarity = 0.9523809523809523
+[HDB,MS]  Similarity = 1.0
+[HDB,PNC]  Similarity = 1.0
+[HDB,RY]  Similarity = 1.0
+[HDB,SAN]  Similarity = 0.9523809523809523
+[HDB,TD]  Similarity = 1.0
+[HDB,USB]  Similarity = 1.0
+[HDB,WFC]  Similarity = 1.0
+[ITUB,JPM]  Similarity = 1.0
+[ITUB,LFC]  Similarity = 0.9523809523809523
+[ITUB,MS]  Similarity = 1.0
+[ITUB,PNC]  Similarity = 1.0
+[ITUB,RY]  Similarity = 1.0
+[ITUB,SAN]  Similarity = 0.9523809523809523
+[ITUB,TD]  Similarity = 1.0
+[ITUB,USB]  Similarity = 1.0
+[ITUB,WFC]  Similarity = 1.0
+[JPM,LFC]  Similarity = 0.9523809523809523
+[JPM,MS]  Similarity = 1.0
+[JPM,PNC]  Similarity = 1.0
+[JPM,RY]  Similarity = 1.0
+[JPM,SAN]  Similarity = 0.9523809523809523
+[JPM,TD]  Similarity = 1.0
+[JPM,USB]  Similarity = 1.0
+[JPM,WFC]  Similarity = 1.0
+[LFC,MS]  Similarity = 0.9523809523809523
+[LFC,PNC]  Similarity = 0.9523809523809523
+[LFC,RY]  Similarity = 0.9523809523809523
+[LFC,SAN]  Similarity = 1.0
+[LFC,TD]  Similarity = 0.9523809523809523
+[LFC,USB]  Similarity = 0.9523809523809523
+[LFC,WFC]  Similarity = 0.9523809523809523
+[MS,PNC]  Similarity = 1.0
+[MS,RY]  Similarity = 1.0
+[MS,SAN]  Similarity = 0.9523809523809523
+[MS,TD]  Similarity = 1.0
+[MS,USB]  Similarity = 1.0
+[MS,WFC]  Similarity = 1.0
+[PNC,RY]  Similarity = 1.0
+[PNC,SAN]  Similarity = 0.9523809523809523
+[PNC,TD]  Similarity = 1.0
+[PNC,USB]  Similarity = 1.0
+[PNC,WFC]  Similarity = 1.0
+[RY,SAN]  Similarity = 0.9523809523809523
+[RY,TD]  Similarity = 1.0
+[RY,USB]  Similarity = 1.0
+[RY,WFC]  Similarity = 1.0
+[SAN,TD]  Similarity = 0.9523809523809523
+[SAN,USB]  Similarity = 0.9523809523809523
+[SAN,WFC]  Similarity = 0.9523809523809523
+[TD,USB]  Similarity = 1.0
+[TD,WFC]  Similarity = 1.0
+[USB,WFC]  Similarity = 1.0
+[ABBV,GSK]  Similarity = 0.8571428571428571
+[ABT,AZN]  Similarity = 0.8095238095238095
+[ABT,BMY]  Similarity = 0.9047619047619048
+[ABT,LLY]  Similarity = 0.8095238095238095
+[ABT,NVS]  Similarity = 0.9047619047619048
+[ABT,SYK]  Similarity = 0.9523809523809523
+[ABT,ADBE]  Similarity = 0.9047619047619048
+[AMGN,FB]  Similarity = 0.8095238095238095
+[AMGN,GOOG]  Similarity = 0.8095238095238095
+[AMGN,ORCL]  Similarity = 0.8571428571428571
+[ANTM,CVS]  Similarity = 0.8095238095238095
+[ANTM,UNH]  Similarity = 0.9047619047619048
+[AZN,BMY]  Similarity = 0.9047619047619048
+[AZN,NVS]  Similarity = 0.8095238095238095
+[AZN,SYK]  Similarity = 0.8571428571428571
+[AZN,ADBE]  Similarity = 0.8095238095238095
+[BDX,MMM]  Similarity = 0.8571428571428571
+[BDX,MRK]  Similarity = 0.8095238095238095
+[BDX,ADP]  Similarity = 0.8095238095238095
+[BDX,INTC]  Similarity = 0.8571428571428571
+[BDX,ITW]  Similarity = 0.8571428571428571
+[BDX,SAP]  Similarity = 0.8095238095238095
+[BDX,TXN]  Similarity = 0.8571428571428571
+[BMY,LLY]  Similarity = 0.8095238095238095
+[BMY,NVS]  Similarity = 0.9047619047619048
+[BMY,SYK]  Similarity = 0.9523809523809523
+[BMY,ADBE]  Similarity = 0.9047619047619048
+[CVS,UNH]  Similarity = 0.8571428571428571
+[JNJ,MMM]  Similarity = 0.8571428571428571
+[JNJ,AAPL]  Similarity = 0.8095238095238095
+[JNJ,INTC]  Similarity = 0.8571428571428571
+[JNJ,INTU]  Similarity = 0.8095238095238095
+[JNJ,ITW]  Similarity = 0.8571428571428571
+[JNJ,MSFT]  Similarity = 0.8095238095238095
+[JNJ,SAP]  Similarity = 0.8571428571428571
+[JNJ,TSM]  Similarity = 0.9047619047619048
+[JNJ,TXN]  Similarity = 0.8571428571428571
+[LLY,PFE]  Similarity = 0.8095238095238095
+[LLY,SYK]  Similarity = 0.8571428571428571
+[LLY,ADBE]  Similarity = 0.8095238095238095
+[LLY,SAP]  Similarity = 0.8571428571428571
+[MDT,CSCO]  Similarity = 0.9523809523809523
+[MDT,NVDA]  Similarity = 0.8095238095238095
+[MDT,SAP]  Similarity = 0.8095238095238095
+[MDT,VMW]  Similarity = 0.8571428571428571
+[MMM,MRK]  Similarity = 0.8095238095238095
+[MMM,AAPL]  Similarity = 0.8095238095238095
+[MMM,INTC]  Similarity = 1.0
+[MMM,ITW]  Similarity = 1.0
+[MMM,TSM]  Similarity = 0.8095238095238095
+[MMM,TXN]  Similarity = 1.0
+[MRK,SYK]  Similarity = 0.8095238095238095
+[MRK,INTC]  Similarity = 0.8095238095238095
+[MRK,ITW]  Similarity = 0.8095238095238095
+[MRK,SAP]  Similarity = 0.8095238095238095
+[MRK,TXN]  Similarity = 0.8095238095238095
+[MRK,VMW]  Similarity = 0.8095238095238095
+[NVS,SYK]  Similarity = 0.8571428571428571
+[NVS,ADBE]  Similarity = 0.8095238095238095
+[SYK,ADBE]  Similarity = 0.9523809523809523
+[AAPL,AVGO]  Similarity = 0.8095238095238095
+[AAPL,INTC]  Similarity = 0.8095238095238095
+[AAPL,ITW]  Similarity = 0.8095238095238095
+[AAPL,QCOM]  Similarity = 0.8571428571428571
+[AAPL,TSM]  Similarity = 0.9047619047619048
+[AAPL,TXN]  Similarity = 0.8095238095238095
+[CSCO,INTU]  Similarity = 0.8095238095238095
+[CSCO,MSFT]  Similarity = 0.8095238095238095
+[CSCO,SAP]  Similarity = 0.8571428571428571
+[CSCO,VMW]  Similarity = 0.8095238095238095
+[FB,GOOG]  Similarity = 0.9047619047619048
+[FB,ORCL]  Similarity = 0.8571428571428571
+[GOOG,ORCL]  Similarity = 0.8571428571428571
+[INTC,ITW]  Similarity = 1.0
+[INTC,TSM]  Similarity = 0.8095238095238095
+[INTC,TXN]  Similarity = 1.0
+[INTU,MSFT]  Similarity = 1.0
+[INTU,SAP]  Similarity = 0.8571428571428571
+[INTU,TSM]  Similarity = 0.8095238095238095
+[ITW,TSM]  Similarity = 0.8095238095238095
+[ITW,TXN]  Similarity = 1.0
+[MSFT,SAP]  Similarity = 0.8571428571428571
+[MSFT,TSM]  Similarity = 0.8095238095238095
+[NVDA,VMW]  Similarity = 0.8095238095238095
+[TSM,TXN]  Similarity = 0.8095238095238095
